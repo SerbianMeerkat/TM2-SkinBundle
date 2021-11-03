@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 1631531036
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4718bd8f73524af2c55d4f3c7127915
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c6c9afe8327127ce43f89cfb8ba54c9c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12cb1657410a61e4c9edb4b3ffd0789a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cf26f4e551037242b3c681390aa2a40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3fb33ef4482d09748b34eebc11a0978f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0adc59f48b799a745955d4e8f0801fa8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DLC/Skins/Cybertaxi/uv.png
+- Assets/DLC/Skins/Default/Animations/Idle.anim
+- Assets/DLC/Skins/Test/body_uv_layout.png
+- Assets/DLC/Skins/Default/Model/base_defaultTaxi.mat
+- Assets/DLC/Skins/Test/default_taxi_uv_lightmap.png
+- Assets/DLC/Skins/Default/Model/taxi_default.blend
+- Assets/DLC/Skins/Default/Default.prefab
+- Assets/DLC/Skins/Cybertaxi/cybertaxi.blend
+- Assets/DLC/Skins/Test/Base.mat
+- Assets/DLC/Skins/SkinManifest.asset
+- Assets/DLC/Skins/Default/default_taxi_uv.psd
+- Assets/DLC/Skins/Test/default_taxi.psd
+- Assets/DLC/Skins/Default.asset
+- Assets/DLC/Skins/Default/Animations/TurnLeft.anim
+- Assets/DLC/Skins/Default/Animations/Crash.anim
+- Assets/DLC/Skins/Test/default_taxi_uv.psd
+- Assets/DLC/Skins/Default/body_uv_layout.png
+- Assets/DLC/Skins/Default/Animations/TurnRight.anim
+- Assets/DLC/Skins/Default/Animations/Default.controller
+- Assets/DLC/Skins/Default/Animations/Jump.anim
+- Assets/DLC/Skins/Space Taxi/space_taxi.blend
+- Assets/DLC/Skins/Cybertaxi/CyberTaxi.psd
+- Assets/DLC/Skins/Default/default_taxi_uv_lightmap.png
+Dependencies: []
